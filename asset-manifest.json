@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/EndzoneDice/static/css/main.e6c13ad2.css",
+    "main.js": "/EndzoneDice/static/js/main.2f365cf6.js",
+    "static/js/453.54902efd.chunk.js": "/EndzoneDice/static/js/453.54902efd.chunk.js",
+    "static/media/banner.png": "/EndzoneDice/static/media/banner.8baff56b85d6ec81e83e.png",
+    "static/media/My Movie - Small.mov": "/EndzoneDice/static/media/My Movie - Small.a8310ce0f7f7b1593b2c.mov",
+    "index.html": "/EndzoneDice/index.html",
+    "main.e6c13ad2.css.map": "/EndzoneDice/static/css/main.e6c13ad2.css.map",
+    "main.2f365cf6.js.map": "/EndzoneDice/static/js/main.2f365cf6.js.map",
+    "453.54902efd.chunk.js.map": "/EndzoneDice/static/js/453.54902efd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2f365cf6.js"
+  ]
+}
