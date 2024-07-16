@@ -1,17 +1,39 @@
 {
   "files": {
-    "main.css": "/EndzoneDice/static/css/main.e6c13ad2.css",
-    "main.js": "/EndzoneDice/static/js/main.2f365cf6.js",
-    "static/js/453.54902efd.chunk.js": "/EndzoneDice/static/js/453.54902efd.chunk.js",
+    "main.css": "/EndzoneDice/static/css/main.aa97e7d7.css",
+    "main.js": "/EndzoneDice/static/js/main.ab418930.js",
+    "static/js/453.a335ea80.chunk.js": "/EndzoneDice/static/js/453.a335ea80.chunk.js",
     "static/media/banner.png": "/EndzoneDice/static/media/banner.8baff56b85d6ec81e83e.png",
-    "static/media/My Movie - Small.mov": "/EndzoneDice/static/media/My Movie - Small.a8310ce0f7f7b1593b2c.mov",
+    "static/media/printoutvid.mp4": "/EndzoneDice/static/media/printoutvid.b8975ef88e2f72f96805.mp4",
+    "static/media/rule8.png": "/EndzoneDice/static/media/rule8.9fe1b80bcd57c056d226.png",
+    "static/media/rule10.png": "/EndzoneDice/static/media/rule10.8dd53d2fc5fea8e0ab44.png",
+    "static/media/rule3.png": "/EndzoneDice/static/media/rule3.5ddcf115a65c7dc96777.png",
+    "static/media/rule5.png": "/EndzoneDice/static/media/rule5.1433233db8db892e2cb7.png",
+    "static/media/rule9.png": "/EndzoneDice/static/media/rule9.702e07a7e254dd069b98.png",
+    "static/media/rule7.png": "/EndzoneDice/static/media/rule7.539a06a86bd29a369a80.png",
+    "static/media/rule4.png": "/EndzoneDice/static/media/rule4.03c37f5b8c1857af654c.png",
+    "static/media/rule12.png": "/EndzoneDice/static/media/rule12.ece54d2f818887400f8f.png",
+    "static/media/rule6.png": "/EndzoneDice/static/media/rule6.2df4c54a262890afeb6b.png",
+    "static/media/rule1.png": "/EndzoneDice/static/media/rule1.dc8fabdcd1994e964be7.png",
+    "static/media/rule2.png": "/EndzoneDice/static/media/rule2.45af96aeb84e7f20f9ca.png",
+    "static/media/rule11.png": "/EndzoneDice/static/media/rule11.10e6cec6aa0f754280f7.png",
+    "static/media/cover.png": "/EndzoneDice/static/media/cover.2ca13504f0bdc1fbb573.png",
+    "static/media/boximg.png": "/EndzoneDice/static/media/boximg.1a9ba10a63e9c7306c60.png",
+    "static/media/right.png": "/EndzoneDice/static/media/right.26737eb316126cfbf0ad.png",
+    "static/media/left.png": "/EndzoneDice/static/media/left.7ae903032753888bcef3.png",
+    "static/media/scorecard.png": "/EndzoneDice/static/media/scorecard.ca0fbbe76c7054298256.png",
+    "static/media/printoutimg.png": "/EndzoneDice/static/media/printoutimg.59c03b2b2068ed7a7796.png",
+    "static/media/slick.svg": "/EndzoneDice/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/EndzoneDice/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/EndzoneDice/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/EndzoneDice/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/EndzoneDice/index.html",
-    "main.e6c13ad2.css.map": "/EndzoneDice/static/css/main.e6c13ad2.css.map",
-    "main.2f365cf6.js.map": "/EndzoneDice/static/js/main.2f365cf6.js.map",
-    "453.54902efd.chunk.js.map": "/EndzoneDice/static/js/453.54902efd.chunk.js.map"
+    "main.aa97e7d7.css.map": "/EndzoneDice/static/css/main.aa97e7d7.css.map",
+    "main.ab418930.js.map": "/EndzoneDice/static/js/main.ab418930.js.map",
+    "453.a335ea80.chunk.js.map": "/EndzoneDice/static/js/453.a335ea80.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.2f365cf6.js"
+    "static/css/main.aa97e7d7.css",
+    "static/js/main.ab418930.js"
   ]
 }
